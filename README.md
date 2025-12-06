@@ -28,7 +28,8 @@ This project demonstrates the deployment, configuration, and security evaluation
 ---
 
 ## 3. Project Structure
-/project-root
+
+```/project-root
 │
 ├── Deployment/
 │ ├── Windows Server Setup
@@ -48,6 +49,7 @@ This project demonstrates the deployment, configuration, and security evaluation
 │ └── Final-Project-Report.pdf
 │
 └── README.md
+```
 
 ---
 
